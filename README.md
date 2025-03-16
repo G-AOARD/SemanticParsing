@@ -1,4 +1,5 @@
 # StructSP: Efficient Fine-tuning of Task-Oriented Dialog System by Using Structure-aware Boosting and Grammar Constraints
+(ACL 2023)
 
 ## Create a conda environment and install the required packages
 
